@@ -1,6 +1,7 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2208826/screenshots/14288845/media/458986a17053b687530f8029ca031893.mp4" >
     <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4976683/screenshots/14536782/media/b620c94b30e631d832036c7314e393a2.mp4"> -->
     <h1 align="center">Hi 👋, I'm Swatantra Mitra(SwaGy)🤙</h1>
+    <p align="center"><img align="center" width="250" height="180" src=https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif"></p>
 <h3 align="center">🔸A passionate Web Developer from India. Cutting edge Technology addict & always thirsty for Knowledge🔸</h3>
 <img align="right" alt="Coding" width="400" src="<img align="right" alt="Coding" width="400">
 
