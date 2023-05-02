@@ -1,7 +1,5 @@
-<!-- <p align="left"><img align="top-left" width="140" height="140" src=https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif"> </p> -->
 <h1 align="center">Hi 👋, I'm Swatantra Mitra(SwaGy)🤙</h1>
 <h3 align="center">🔸A passionate Web Developer from India. Cutting edge Technology addict & always thirsty for Knowledge🔸</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swagyxd&label=Profile%20views&color=0e75b6&style=flat" alt="swagyxd" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swagyxd" alt="swagyxd" /></a> </p>
 
