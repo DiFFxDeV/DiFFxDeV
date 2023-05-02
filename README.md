@@ -1,6 +1,5 @@
 <!-- <p align="left"><img align="top-left" width="140" height="140" src=https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif"> </p> -->
 <h1 align="center">Hi 👋, I'm Swatantra Mitra(SwaGy)🤙</h1>
-<p align="center"><img align="center" width="1500" height="700" src=https://media.tenor.com/sfp8nf9UrZcAAAAd/uwu-cat.gif"> </p>
 <h3 align="center">🔸A passionate Web Developer from India. Cutting edge Technology addict & always thirsty for Knowledge🔸</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swagyxd&label=Profile%20views&color=0e75b6&style=flat" alt="swagyxd" /> </p>
 
