@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mitraswat999gmail.com**
 
-- ⚡ Fun fact **I was having pretty decent day untill I thought of something I said when I was 13.**
+- ⚡ Fun fact **I wish I could live in Anime.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
