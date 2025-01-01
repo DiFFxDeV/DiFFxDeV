@@ -1,5 +1,5 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://swagyxd.vercel.app/)
-<h1 align="center">Hi 👋, I'm Swatantra Mitra(SwaGy)🤙</h1>
+<h1 align="center">Hi 👋, I'm Swatantra Mitra🤙</h1>
 <h3 align="center">🔸A passionate Web Developer from India. Cutting edge Technology addict & always thirsty for Knowledge🔸</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swagyxd" alt="swagyxd" /></a> </p>
